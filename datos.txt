@@ -1,3 +1,3 @@
-Brian Bracamonte IP:12545525 
-Lukas Sandoval IP: 192.168.45.73
-
+Brian Bracamonte IP:125.455.25  hora: 11:16
+Lukas Sandoval IP: 192.168.45.73 hora: 11:22
+Gustavo Gonzalez IP: 192.343.9.76 hora: 11:41
